@@ -1,0 +1,10 @@
+4
+2
+6
+3
+1
+Sigmoidal
+Gaussiana
+Sigmoidal
+delta
+0.01

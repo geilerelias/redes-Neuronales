@@ -1,0 +1,8 @@
+3
+35
+30
+4
+TanHiperbolica
+Sigmoidal
+Algoritmo
+0.001

@@ -1,0 +1,8 @@
+3
+2
+4
+1
+TanSigmoidal
+Sigmoidal
+Algoritmo
+1.0
